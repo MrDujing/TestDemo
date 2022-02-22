@@ -1,0 +1,3 @@
+INFO：内容：fdaf
+FINER：内容：fdsa
+SEVERE：内容：除零了
